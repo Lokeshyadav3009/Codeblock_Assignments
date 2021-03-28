@@ -1,0 +1,43 @@
+h1{
+    color: #6a040f;
+    margin: 10px auto;
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+#main{
+    border: 2px solid ;
+    margin: 10px auto;
+    width: 20vw;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#textbox1{
+    border-radius: 5px;
+    padding:5px;
+    margin: 5px;
+    width: 12vw;
+}
+
+button{
+    border-radius: 5px;
+    padding:5px;
+    margin: 5px;
+    background-color: #64dfdf;
+    color: #6a040f;
+
+}
+
+li{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 3px;
+}
+
+ul{
+    list-style: none;
+}
+
